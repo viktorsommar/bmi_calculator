@@ -4,5 +4,5 @@ const calculateBMI = () => {
     let results = calculateMetricBMI(parseInt(weightInput.value), parseInt(heightInput.value))
     let message = getBMIClassification(parseFloat(results))
     let displayResultsElement = document.getElementById('results')
-    displayResultsElement.innerHTML = `<h2>Your BMI value is: ${results} and your are deemed ${message}</h2>`
+    displayResultsElement.innerHTML = `<h2>Your BMI value is: ${results} and you are deemed ${message}</h2>`
 }
