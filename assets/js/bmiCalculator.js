@@ -15,9 +15,9 @@ const getBMIClassification = (value) => {
         return "overweight"
     } else if (value < 35) {
         return "obesity class 1"
-    } else if (value < 40.1) {
+    } else if (value < 40) {
         return "obesity class 2"
     } else {
-        return "extreme obesity"
+        return "extreme obesity class 3"
     }
 }
