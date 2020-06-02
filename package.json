@@ -1,0 +1,12 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "project for JavaScript intro",
+  "main": "index.js",
+  "repository": "https://github.com/viktorsommar/bmi_calculator.git",
+  "author": "viktor_sommar",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
