@@ -1,0 +1,8 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/viktorsommar/bmi_calculator.git",
+  "author": "viktor_sommar <vsommarbaillot@gmail.com>",
+  "license": "MIT"
+}
