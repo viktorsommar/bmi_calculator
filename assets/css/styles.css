@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="text"] {
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+button {
+    background-color: brown;
+    color: white;
+    padding: 10px 10x;
+    font-size: 14px;
+}
